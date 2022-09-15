@@ -1,4 +1,4 @@
-<h1> Shopsie </h1>
+<h1> Chargebee </h1>
 
   <strong>
     Generated with ❤️ from Dhiwise
