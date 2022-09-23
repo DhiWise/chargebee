@@ -5,7 +5,7 @@
   </strong><br>
   <strong>
   Chargebee application which is built with Flutter.
-It uses <a href=="https://www.chargebee.com/"/>Chargebee</a>'s API</strong>
+It uses <a href="https://www.chargebee.com/"/>Chargebee</a>'s API</strong>
 
 
 
